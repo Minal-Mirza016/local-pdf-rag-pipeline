@@ -1,0 +1,23 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated Chroma vector database
+chroma_db/
+
+# Source PDF documents
+doc/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
